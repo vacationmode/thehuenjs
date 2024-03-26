@@ -10,6 +10,7 @@
   "files": [
     "source/bridge.ts",
     "source/bridge-discovery.ts",
+    "source/bridge-linking.ts",
     "source/main.ts",
   ]
 }
